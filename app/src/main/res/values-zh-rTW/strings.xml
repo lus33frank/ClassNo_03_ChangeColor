@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">No:03_ChangeColor(調色器)</string>
+    <string name="Foreground">前景色</string>
+    <string name="Background">背景色</string>
+    <string name="Red">紅色</string>
+    <string name="Green">綠色</string>
+    <string name="Blue">藍色</string>
+    <string name="Black">黑色</string>
+    <string name="White">白色</string>
+    <string name="ColorText">文字顏色</string>
+    <string-array name="ColorList">
+        <item>@string/Foreground</item>
+        <item>@string/Background</item>
+    </string-array>
+</resources>

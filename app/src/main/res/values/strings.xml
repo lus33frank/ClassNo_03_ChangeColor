@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">No:03_ChangeColor</string>
+    <string name="Foreground">Foreground</string>
+    <string name="Background">Background</string>
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Black">Black</string>
+    <string name="White">White</string>
+    <string name="ColorText">StringColor</string>
+    <string-array name="ColorList">
+        <item>@string/Foreground</item>
+        <item>@string/Background</item>
+    </string-array>
+</resources>
